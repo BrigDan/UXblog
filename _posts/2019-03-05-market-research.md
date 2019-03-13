@@ -3,7 +3,7 @@ layout: post
 title: "Market Research"
 author: "Kacper Daniel"
 categories: research
-image: markets.jpg
+image: marketresearch.png
 ---
 ## What service are we proposing
 
