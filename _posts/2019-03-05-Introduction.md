@@ -8,8 +8,24 @@ image: introduction.png
 # What is the purpose of this blog?
 The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.
 
-## The Serivce
-The musical service I have decided to create will be a theraputic application used for the purpose of relaxation, sleep aid and studying. The application will produce natural sounds of the world which includes rain, wind, fire crackling and other natural sounds,
+## What should I expect from the blog?
+The blog posts will document the [music service]({{http://127.0.0.1:4000}}{% post_url 2019-03-05-The-music-service %}) idea I have thought of and how its unique features meet the needs of my user group. I will follow the structure of:
 
-## Unique Features
- The unique selling point of my product is the ability to choose a specific real life location and get pre-recorded and real time sounds from the location. Users can submit their own field recordings and share them amongst eachother building a community and producing an endless stream of pleasurable and relaxing sounds. Furthermore, users will also have the ability to listen to sounds from the past and from the future to help immerse themselves into a specific calming enviroment. 
+* **Market Research**
+    *  Analysing existing products and seeing what is unique about them and their targeted demographic and finding out how my application differs from the competiting products.
+* **Audience Research**
+    * Looking into my particular target audiences and deciding on the specific groups my product will be targeting.
+* **User Persona**
+    * Creating a persona based on my research and analyzing how they will interact with my product.
+* **Empathy Map**
+    * Analyzing the specific emotions the persona will encounter during usage of the product and the thoughts and feelings they have that would lead them to using the product.
+* **Product Storyboard**
+    * Looking at how the user will go about their day and analyzing where the application may be used during their average day.
+* **Wireframes**
+    * Prototypes of my product in both physical paper form and digital form. I will be using mockups for the digital wireframe.
+* **Prototype(High Fidelity)**
+    * A more fleshed out digital prototype which will work almost identically to the application.
+* **Evidence of user testing & iteration**
+    * Reviewing the application with potential users and evaluating the improvments to make during the next iteration of the cycle.
+
+
