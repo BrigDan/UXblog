@@ -1,10 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-13T17:14:53+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kacpers UXBlog</title><subtitle>Blog For UX Design</subtitle><author><name>Kacper Daniel</name></author><entry><title type="html">Introduction</title><link href="http://localhost:4000/Introduction.html" rel="alternate" type="text/html" title="Introduction" /><published>2019-03-05T00:00:00+00:00</published><updated>2019-03-05T00:00:00+00:00</updated><id>http://localhost:4000/Introduction</id><content type="html" xml:base="http://localhost:4000/Introduction.html">&lt;h1 id=&quot;what-is-the-purpose-of-this-blog&quot;&gt;What is the purpose of this blog?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-19T14:29:20+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kacpers UXBlog</title><subtitle>Blog For UX Design</subtitle><author><name>Kacper Daniel</name></author><entry><title type="html">Introduction</title><link href="http://localhost:4000/Introduction.html" rel="alternate" type="text/html" title="Introduction" /><published>2019-03-05T00:00:00+00:00</published><updated>2019-03-05T00:00:00+00:00</updated><id>http://localhost:4000/Introduction</id><content type="html" xml:base="http://localhost:4000/Introduction.html">&lt;h1 id=&quot;what-is-the-purpose-of-this-blog&quot;&gt;What is the purpose of this blog?&lt;/h1&gt;
 &lt;p&gt;The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-serivce&quot;&gt;The Serivce&lt;/h2&gt;
+&lt;h2 id=&quot;what-should-i-expect-from-the-blog&quot;&gt;What should I expect from the blog?&lt;/h2&gt;
+&lt;p&gt;The blog posts will document the &lt;a href=&quot;/The-music-service.html&quot;&gt;music service&lt;/a&gt; idea I have thought of and how its unique features meet the needs of my user group. I will follow the structure of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Market Research&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Analysing existing products and seeing what is unique about them and their targeted demographic and finding out how my application differs from the competiting products.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audience Research&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Looking into my particular target audiences and deciding on the specific groups my product will be targeting.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;User Persona&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Creating a persona based on my research and analyzing how they will interact with my product.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Empathy Map&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Analyzing the specific emotions the persona will encounter during usage of the product and the thoughts and feelings they have that would lead them to using the product.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Product Storyboard&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Looking at how the user will go about their day and analyzing where the application may be used during their average day.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wireframes&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Prototypes of my product in both physical paper form and digital form. I will be using mockups for the digital wireframe.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Prototype(High Fidelity)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;A more fleshed out digital prototype which will work almost identically to the application.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Evidence of user testing &amp;amp; iteration&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Reviewing the application with potential users and evaluating the improvments to make during the next iteration of the cycle.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Kacper Daniel</name></author><summary type="html">What is the purpose of this blog? The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/introduction.png" /></entry><entry><title type="html">Music service idea</title><link href="http://localhost:4000/The-music-service.html" rel="alternate" type="text/html" title="Music service idea" /><published>2019-03-05T00:00:00+00:00</published><updated>2019-03-05T00:00:00+00:00</updated><id>http://localhost:4000/The-music-service</id><content type="html" xml:base="http://localhost:4000/The-music-service.html">&lt;h1 id=&quot;my-product-idea&quot;&gt;My product idea&lt;/h1&gt;
 &lt;p&gt;The musical service I have decided to create will be a theraputic application used for the purpose of relaxation, sleep aid and studying. The application will produce natural sounds of the world which includes rain, wind, fire crackling and other natural sounds,&lt;/p&gt;
 
 &lt;h2 id=&quot;unique-features&quot;&gt;Unique Features&lt;/h2&gt;
-&lt;p&gt;The unique selling point of my product is the ability to choose a specific real life location and get pre-recorded and real time sounds from the location. Users can submit their own field recordings and share them amongst eachother building a community and producing an endless stream of pleasurable and relaxing sounds. Furthermore, users will also have the ability to listen to sounds from the past and from the future to help immerse themselves into a specific calming enviroment.&lt;/p&gt;</content><author><name>Kacper Daniel</name></author><summary type="html">What is the purpose of this blog? The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/introduction.png" /></entry><entry><title type="html">Market Research</title><link href="http://localhost:4000/research/market-research.html" rel="alternate" type="text/html" title="Market Research" /><published>2019-03-05T00:00:00+00:00</published><updated>2019-03-05T00:00:00+00:00</updated><id>http://localhost:4000/research/market-research</id><content type="html" xml:base="http://localhost:4000/research/market-research.html">&lt;h2 id=&quot;what-service-are-we-proposing&quot;&gt;What service are we proposing&lt;/h2&gt;
+&lt;p&gt;The unique selling point of my product is the ability to choose a specific real life location and get pre-recorded and real time sounds from the location. Users can submit their own field recordings and share them amongst eachother building a community and producing an endless stream of pleasurable and relaxing sounds. Furthermore, users will also have the ability to listen to sounds from the past and from the future to help immerse themselves into a specific calming enviroment.&lt;/p&gt;</content><author><name>Kacper Daniel</name></author><summary type="html">My product idea The musical service I have decided to create will be a theraputic application used for the purpose of relaxation, sleep aid and studying. The application will produce natural sounds of the world which includes rain, wind, fire crackling and other natural sounds,</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/idea.jpg" /></entry><entry><title type="html">Market Research</title><link href="http://localhost:4000/research/market-research.html" rel="alternate" type="text/html" title="Market Research" /><published>2019-03-05T00:00:00+00:00</published><updated>2019-03-05T00:00:00+00:00</updated><id>http://localhost:4000/research/market-research</id><content type="html" xml:base="http://localhost:4000/research/market-research.html">&lt;h2 id=&quot;what-service-are-we-proposing&quot;&gt;What service are we proposing&lt;/h2&gt;
 
 &lt;h2 id=&quot;who-is-our-demographic&quot;&gt;Who is our demographic&lt;/h2&gt;</content><author><name>Kacper Daniel</name></author><summary type="html">What service are we proposing</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marketresearch.png" /></entry></feed>

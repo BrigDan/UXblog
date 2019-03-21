@@ -22,6 +22,22 @@
 			</item>
 		
 			<item>
+				<title>Music service idea</title>
+				
+					<dc:creator>Kacper Daniel</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;my-product-idea&quot;&gt;My product idea&lt;/h1&gt;
+&lt;p&gt;The musical service I have decided to create will be a theraputic application used for the purpose of relaxation, sleep aid and studying. The application will produce natural sounds of the world which includes rain, wind, fire crackling and other natural sounds,&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/The-music-service.html</link>
+				<guid isPermaLink="true">http://localhost:4000/The-music-service.html</guid>
+			</item>
+		
+			<item>
 				<title>Introduction</title>
 				
 					<dc:creator>Kacper Daniel</dc:creator>
