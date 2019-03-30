@@ -9,7 +9,7 @@ image: introduction.png
 The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.
 
 ## What should I expect from the blog?
-The blog posts will document the [music service]({{http://127.0.0.1:4000}}{% post_url 2019-03-05-The-music-service %}) idea I have thought of and how its unique features meet the needs of my user group. I will follow the structure of:
+The blog posts will document the [music service]({{http:/schooluxblog.brig.space:4000}}{% post_url 2019-03-05-The-music-service %}) idea I have thought of and how its unique features meet the needs of my user group. I will follow the structure of:
 
 * **Market Research**
     *  Analysing existing products and seeing what is unique about them and their targeted demographic and finding out how my application differs from the competiting products.
