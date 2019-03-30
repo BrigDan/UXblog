@@ -18,3 +18,6 @@ image: marketresearch.png
 The demographic for my product is very broad as the application can be used for more than just sleep aid. However, I will focus on sleep aid being the main purpose which makes the audience for my application younger people who are restless and need external stimuli to unwind and provide escapism.
 
 
+|   g| g  |
+|---|---|
+| g  | g  |
