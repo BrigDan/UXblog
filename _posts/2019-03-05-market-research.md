@@ -11,7 +11,7 @@ image: marketresearch.png
 ## Analysis of competing products
 | Product Name  | Product Description | Features | Comments |
 |---|---|---|---|
-|RainMood| This product provides a constant stream of rain and thunder sounds for people who want to sleep. Rainymood also provides the additional option of listening to a featured artists music to the sound of rain.  | +Constant Audio stream +Options to listen to featured artigsts alongside rain +Sliders to choose amount of rain and thunder   | |
+| RainMood | This product provides a constant stream of rain and thunder sounds for people who want to sleep. Rainymood also provides the additional option of listening to a featured artists music to the sound of rain.  | +Constant Audio stream +Options to listen to featured artigsts alongside rain +Sliders to choose amount of rain and thunder  |  | |
 
 
 # Who is our demographic
