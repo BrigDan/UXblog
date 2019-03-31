@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction"
-author: "Kacper Daniel"
+author: Kacper Daniel
 image: introduction.png
 ---
 
