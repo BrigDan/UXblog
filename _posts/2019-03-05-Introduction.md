@@ -8,6 +8,11 @@ image: introduction.png
 # What is the purpose of this blog?
 The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.
 
+#What is the iterative design cycle?:
+The iterative design cycle is a combination of phases used when producing product ideas and designing the experiences for the product. The iterative design cycle generally follows the cycle of Observing, Ideating, Prototyping and Testing. 
+
+![Iterative Cycle](http://web.mit.edu/6.813/www/sp17/classes/06-user-centered-design/figures/04.png)
+
 ## What should I expect from the blog?
 The blog posts will document the [music service]({{http:/schooluxblog.brig.space:4000}}{% post_url 2019-03-05-The-music-service %}) idea I have thought of and how its unique features meet the needs of my user group. I will follow the structure of:
 
