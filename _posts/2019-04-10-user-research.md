@@ -32,7 +32,7 @@ Based on a questionnaire(_Figure 1.1_) I've had with 20 users, I have an idea of
 ##### Control Variables and Sample Size
 While my sample size is relatively low, I tried to ensure that the spread of users were more oriented for quality of answers rather than quantity. For my control variable, I tried to get users who I knew had good sleep habits.
 
-####Behavioural
+#### Behavioural
 In order to get an idea of behaviours for my user demographic. I asked the users that were filling out my survey of their behaviours before bed. This will help me get a better understanding of how many people would use my application to fulfil their needs before bed.
 
 Out of 25 people, 20 responded saying a variety of things. (As shown in _Figure 1.2_.) I begun to understand is that their current before-bed practices could be substituted by my application. 1/2 of the responses were related to listening to music, which could be replaced with the various sound-recreation features my app provides. One of the responses told me that some users use earplugs, which could be replaced with white noise.
