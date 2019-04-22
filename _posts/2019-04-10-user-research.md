@@ -42,11 +42,11 @@ Furthermore, the remaining responses while not being directly helpful (such as "
 
 The majority of the responses (52%) said that they would use the app to help themselves sleep which gives me confidence that my application could have some traffic.
     
-####Psychographic
+#### Psychographic
     Considers the lifestyles, interests (needs/wants) and aspirations of consumers. This may relate to perceptions of quality and the image the consumer wants to portray of themselves, or relate to what or who inspires them
-####Demographic
+#### Demographic
     This is the highest and most basic level in which you can segment the audience and relates to age, gender, income, educational level. Demographic segmentation can often remain quite broad so may require further division
-####Geographic
+#### Geographic
     This subset considers where your audience is, are they local, national or international. How might audiences in rural areas differ from urban areas?
-####Occasional
+#### Occasional
     This type of segmentation is independent of the consumer and focuses more on the occasion that the product serves. For example orange juice is typically bought for the occasion of “breakfast time” and is often marketed for that occasions and ignores other demographic segments.  Christmas products are another example of occasional segmentation. 
