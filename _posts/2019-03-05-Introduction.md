@@ -13,6 +13,8 @@ The iterative design cycle is a combination of phases used when producing produc
 
 ![Iterative Cycle](http://web.mit.edu/6.813/www/sp17/classes/06-user-centered-design/figures/04.png)
 
+# add sentences here
+
 ## What should I expect from the blog?
 The blog posts will document the [music service]({{http:/schooluxblog.brig.space:4000}}{% post_url 2019-03-05-The-music-service %}) idea I have thought of and how its unique features meet the needs of my user group. I will follow the structure of:
 
