@@ -8,7 +8,7 @@ image: userresearch.jpg
 
 ## Target Audience
 
-To begin creating a user persona I firstly have to understand what kind of user my application is targeting. Because my application indents on aiding people with sleep issues my demographics are very broad.
+To begin creating a user persona I firstly have to understand what kind of user my application is targeting. Because my application intends on aiding people with sleep issues my demographics are very broad.
 
 ## Quantitative research
 In order to break down my demographics, I will focus potential users based on certain reasons backed by academic studies and statistics relating to variables that will affect the usage of my application:
@@ -32,7 +32,7 @@ My assumptions help me cut down my demographic by age to people between 15 and 3
 ## Audience Segmentation
 In order to further break down demographics into something more homogeneous I categorised the normal and niche users within my age range.
 
-Based on a questionnaire(_Figure 1.1_) I've had with 25 users, I have an idea of the average user of my product.
+Based on a questionnaire  (_Figure 1.1_) I've created which 25 users responded to, I have managed to obtain an idea of the average user of my product.
 
 ![Questionnaire](/assets/img/questionnaire.png)
 (_Figure 1.1_)
