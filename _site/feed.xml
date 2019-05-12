@@ -1,8 +1,228 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-19T14:29:20+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kacpers UXBlog</title><subtitle>Blog For UX Design</subtitle><author><name>Kacper Daniel</name></author><entry><title type="html">Introduction</title><link href="http://localhost:4000/Introduction.html" rel="alternate" type="text/html" title="Introduction" /><published>2019-03-05T00:00:00+00:00</published><updated>2019-03-05T00:00:00+00:00</updated><id>http://localhost:4000/Introduction</id><content type="html" xml:base="http://localhost:4000/Introduction.html">&lt;h1 id=&quot;what-is-the-purpose-of-this-blog&quot;&gt;What is the purpose of this blog?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator>
+<link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+<updated>2019-05-11T16:11:10+01:00</updated>
+<id>http://localhost:4000/</id>
+<subtitle>Blog For UX Design</subtitle>
+<author>
+<name>Kacper Daniel</name>
+</author>
+<entry>
+<title>Empathyanduserpersona</title>
+<link href="http://localhost:4000/EmpathyandUserPersona.html" rel="alternate" type="text/html" title="Empathyanduserpersona" />
+<published>2019-05-11T00:00:00+01:00</published>
+<updated>2019-05-11T00:00:00+01:00</updated>
+<id>http://localhost:4000/EmpathyandUserPersona</id>
+<content type="html" xml:base="http://localhost:4000/EmpathyandUserPersona.html">
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: “Empathy Maps and User Personas”
+author: “Kacper Daniel”
+categories: research
+image: userpersona.jpeg
+—&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-an-empathy-map&quot;&gt;What is an empathy map?&lt;/h1&gt;
+
+&lt;p&gt;People are very malleable and their experiences have major effects on their chances of using a product. In order to account for this, we have to ensure that our research looks into the emotions, goals, motivations, and context of a person to develop the best possible user persona. Furthermore, we also can use an empathy map to ensure that our own biases aren’t controlling the outcome of the application and ruining the user experience for others.&lt;/p&gt;
+</content>
+<summary>layout: posttitle: “Empathy Maps and User Personas”author: “Kacper Daniel”categories: researchimage: userpersona.jpeg—</summary>
+</entry>
+<entry>
+<title>User Research</title>
+<link href="http://localhost:4000/research/user-research.html" rel="alternate" type="text/html" title="User Research" />
+<published>2019-04-10T00:00:00+01:00</published>
+<updated>2019-04-10T00:00:00+01:00</updated>
+<id>http://localhost:4000/research/user-research</id>
+<content type="html" xml:base="http://localhost:4000/research/user-research.html">&lt;h2 id=&quot;target-audience&quot;&gt;Target Audience&lt;/h2&gt;
+
+&lt;p&gt;To begin creating a user persona I firstly have to understand what kind of user my application is targeting. Because my application intends on aiding people with sleep issues my demographics are very broad.&lt;/p&gt;
+
+&lt;h2 id=&quot;quantitative-research&quot;&gt;Quantitative research&lt;/h2&gt;
+&lt;p&gt;In order to break down my demographics, I will focus potential users based on certain reasons backed by academic studies and statistics relating to variables that will affect the usage of my application:&lt;/p&gt;
+
+&lt;h3 id=&quot;reason-1-elderly-people-do-not-use-smartphones&quot;&gt;Reason 1) Elderly people do not use smartphones&lt;/h3&gt;
+&lt;p&gt;As &lt;a href=&quot;https://www.pewinternet.org/2017/05/17/technology-use-among-seniors/&quot;&gt;58% of elderly aged 65+ do not use smart phones&lt;/a&gt; I will exclude potential elderly people with sleep problems from my demographic. I further believe this won’t make the product harder to use for them should the 42% choose to.&lt;/p&gt;
+
+&lt;h3 id=&quot;reason-2-work-related-stress-will-impact-adult-sleep&quot;&gt;Reason 2) Work-Related stress will impact adult sleep&lt;/h3&gt;
+&lt;p&gt;Because the majority of sleep issues revolve around stress, people in work and academia should be targeted for my application. Sleep is also &lt;a href=&quot;https://www.sleepfoundation.org/articles/teens-and-sleep&quot;&gt;important for young people’s development&lt;/a&gt; so it is critical to ensure that there are resources available to help with insomnia.&lt;/p&gt;
+
+&lt;h3 id=&quot;reason-3-there-is-a-sleeplessness-crisis-in-young-adults-an-teenagers&quot;&gt;Reason 3) There is a sleeplessness crisis in young adults an teenagers&lt;/h3&gt;
+&lt;p&gt;Data by analysed &lt;a href=&quot;https://www.theguardian.com/lifeandstyle/2018/sep/30/childrens-lack-of-sleep-is-hidden-health-crisis-experts-say?CMP=aff_1432&amp;amp;utm_content=The+Independent&amp;amp;awc=5795_1556143576_d5c3bb3b9a1bbb9630e5ddd61612b958&quot;&gt;The Guardian&lt;/a&gt; from the NHS suggests that sleep disorders have been a large problem amongst teenagers, with diagnosis of sleep disorder going up for people 16 and under. Largely, technology is to blame as social media and blue light can interrupt natural sleep patterns and keep us awake longer than we might want.&lt;/p&gt;
+
+&lt;p&gt;Moreover, This problem doesn’t seem to only affect adolescents. A &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/30515935&quot;&gt;study&lt;/a&gt; in Norway shows that insomnia and sleep-disorders are on the rise amongst college and university students. This is concerning as lack of sleep can make a significant difference to the quality of work produced by the students.&lt;/p&gt;
+
+&lt;p&gt;Personally, I believe phones are a tool which can be used for good and bad purposes, which is why producing a sleep aid application that reminds the user that they should have a good nights sleep could be helpful.&lt;/p&gt;
+
+&lt;p&gt;My assumptions help me cut down my demographic by age to people between 15 and 30.&lt;/p&gt;
+
+&lt;h2 id=&quot;audience-segmentation&quot;&gt;Audience Segmentation&lt;/h2&gt;
+&lt;p&gt;In order to further break down demographics into something more homogeneous I categorised the normal and niche users within my age range.&lt;/p&gt;
+
+&lt;p&gt;Based on a questionnaire  (&lt;em&gt;Figure 1.1&lt;/em&gt;) I’ve created which 25 users responded to, I have managed to obtain an idea of the average user of my product.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/questionnaire.png&quot; alt=&quot;Questionnaire&quot; /&gt;
+(&lt;em&gt;Figure 1.1&lt;/em&gt;)&lt;/p&gt;
+&lt;h5 id=&quot;control-variables-and-sample-size&quot;&gt;Control Variables and Sample Size&lt;/h5&gt;
+&lt;p&gt;While my sample size is relatively low, I tried to ensure that the spread of users were more oriented for quality of answers rather than quantity. For my control variable, I tried to get users who I knew had good sleep habits.&lt;/p&gt;
+
+&lt;h4 id=&quot;behavioural&quot;&gt;Behavioural&lt;/h4&gt;
+&lt;p&gt;In order to get an idea of behaviours for my user demographic. I asked the users that were filling out my survey of their behaviours before bed. This will help me get a better understanding of how many people would use my application to fulfil their needs before bed.&lt;/p&gt;
+
+&lt;p&gt;Out of 25 people, 20 responded saying a variety of things. (As shown in &lt;em&gt;Figure 1.2&lt;/em&gt;.) I begun to understand is that their current before-bed practices could be substituted by my application. 1/2 of the responses were related to listening to music, which could be replaced with the various sound-recreation features my app provides. One of the responses told me that some users use earplugs, which could be replaced with white noise.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the remaining responses while not being directly helpful (such as “Not drinking coffee”) could be incorporated into my applications advice system and be shown to users as they go throughout their day.
+&lt;img src=&quot;/assets/img/questionnairesleep.png&quot; alt=&quot;Currently doing for sleep&quot; /&gt; (&lt;em&gt;Figure 1.2&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;The majority of the responses (52%) said that they would use the app to help themselves sleep which gives me confidence that my application could have some traffic.&lt;/p&gt;
+
+&lt;h4 id=&quot;psychographic&quot;&gt;Psychographic&lt;/h4&gt;
+&lt;p&gt;In order to get a better idea of the sort of lifestyles my potential users live, I asked questions regarding their time spent working or studying a week. As well, I asked about their time spent meditating and using their phone in order to test how likely the user would have access to my application,how many users could see the potential benefit of the guided meditation and what the amount of stress these individuals are under from work.&lt;/p&gt;
+
+&lt;h5 id=&quot;mobile-phone-use&quot;&gt;Mobile phone use&lt;/h5&gt;
+&lt;p&gt;The results (&lt;em&gt;Figure 1.3&lt;/em&gt;) show that the majority of people use their phone 3-6 hours a day with people who always use their phone coming in by a small margin. These statistics show that I would have the most success designing my application for this demographic.
+&lt;img src=&quot;/assets/img/questionnairemobile.png&quot; alt=&quot;Mobile Phone Use&quot; /&gt; 
+(&lt;em&gt;Figure 1.3&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h5 id=&quot;meditation&quot;&gt;Meditation&lt;/h5&gt;
+&lt;p&gt;I found out from my research that the majority of users did not meditate, with only a small percentage saying they do. However, I am not hesitating with adding guided meditations into my features as the minority that said they did meditate outweighed those who don’t.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/questionnairemeditate.png&quot; alt=&quot;Meditation Use&quot; /&gt; 
+(&lt;em&gt;Figure 1.4&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h5 id=&quot;workload&quot;&gt;Workload&lt;/h5&gt;
+&lt;p&gt;As for workload (&lt;em&gt;Figure 1.5&lt;/em&gt;), none of the people said they didn’t work, with the vast majority working 20-40 hours. The amount of work seems to have affected the sleep of users as when asked what kind of things kept them up at night I got responses such as “Work Stress” and “Insomnia, homework, stress” with someone saying “I have a very messy workflow in general, and that makes me end up not going to bed in a decent time, or in a better regulated system.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/questionnairework.png&quot; alt=&quot;Workload&quot; /&gt;
+(&lt;em&gt;Figure 1.5&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;From this research I would expect my user to want a service that can help them forget about their work and focus on getting a good nights sleep, which can be done through various mindfulness and sleep meditation techniques as well as relaxing music. Furthermore by suggesting ways to make their day less stressful I can help make sure that they become less fatigued by their work.&lt;/p&gt;
+
+&lt;h4 id=&quot;demographic&quot;&gt;Demographic&lt;/h4&gt;
+&lt;p&gt;As stated in my previous research into groups that use smartphones, the demographic I’m aiming for is young adults and teenagers between the age of 15 and 30.&lt;/p&gt;
+
+&lt;p&gt;As for gender, The Norwegian study mentioned beforehand shows that more women than men were having issues with insomnia and sleep disturbances by 10%. However, because sleep disturbances are on the rise for both genders my applications should be created for both men and women.&lt;/p&gt;
+
+&lt;p&gt;In order to understand the amount that my applications should be priced at I asked my potential users, as shown in &lt;em&gt;Figure 1.6&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/questionnaireprice.png&quot; alt=&quot;Pricing&quot; /&gt;
+(&lt;em&gt;Figure 1.6&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;This gives me a good idea of the expected pricing from my users. I will definitely consider making the application free and provide a subscription service for extra features. However, I have to be mindful for the pricing as it seems to have a major effect on the likelyhood of my user subscribing. (&lt;em&gt;Figure 1.7&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/questionnairesubscription.png&quot; alt=&quot;Subscription&quot; /&gt;
+(&lt;em&gt;Figure 1.7&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h4 id=&quot;geographic&quot;&gt;Geographic&lt;/h4&gt;
+&lt;p&gt;To begin with I would like to deploy my application amongst university campuses and colleges to see their effect as that is the place with the most people fitting my demographic.&lt;/p&gt;
+
+&lt;h4 id=&quot;occasional&quot;&gt;Occasional&lt;/h4&gt;
+&lt;p&gt;This program will be used when people need a good nights sleep or need to take a break to relax or meditate.&lt;/p&gt;
+</content>
+<author>
+<name>Kacper Daniel</name>
+</author>
+<summary>Target Audience</summary>
+</entry>
+<entry>
+<title>Market Research</title>
+<link href="http://localhost:4000/research/market-research.html" rel="alternate" type="text/html" title="Market Research" />
+<published>2019-03-05T00:00:00+00:00</published>
+<updated>2019-03-05T00:00:00+00:00</updated>
+<id>http://localhost:4000/research/market-research</id>
+<content type="html" xml:base="http://localhost:4000/research/market-research.html">&lt;h1 id=&quot;market-research&quot;&gt;Market Research&lt;/h1&gt;
+&lt;p&gt;To understand how to get to a successful end product we need to be observant of the current trends in the market. Market research is about &lt;strong&gt;observing&lt;/strong&gt; the people who will understand your product and meet the users needs.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis-of-competing-products&quot;&gt;Analysis of competing products&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Product Name&lt;/th&gt;
+      &lt;th&gt;Product Description&lt;/th&gt;
+      &lt;th&gt;Features&lt;/th&gt;
+      &lt;th&gt;Comments&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://rainymood.com/&quot;&gt;Rainymood&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;This product provides a constant stream of rain and thunder sounds for people who want to sleep. Rainymood also provides the additional option of listening to a featured artists music to the sound of rain.&lt;/td&gt;
+      &lt;td&gt;+ Constant Audio stream&lt;br /&gt;&lt;br /&gt; + Options to listen to featured artists alongside rain &lt;br /&gt;&lt;br /&gt;+ Sliders to choose amount of rain and thunder  &lt;br /&gt;&lt;br /&gt; + Free &lt;br /&gt;&lt;br /&gt; - Lack of volume slider &lt;br /&gt;&lt;br /&gt; - Lack of choices or customisation &lt;br /&gt;&lt;br /&gt; - Can’t listen to old featured artists&lt;/td&gt;
+      &lt;td&gt;Adding featured artists may be a good idea&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://pzizz.com/&quot;&gt;Pzizz&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Pzizz creates beautiful “Dreamscapes” using voiceovers, music and various sound effects. In order to help aid sleep, Pzizz calms the body into rest and maintains a comfortable enviroment overnight to prevent disturbances from waking you while also acting as an alarm to gently ease you from sleep.&lt;/td&gt;
+      &lt;td&gt;+ Variety of sounds and multiple types of sound (voice, sound effect, music) used. &lt;br /&gt;&lt;br /&gt; + Free &lt;br /&gt;&lt;br /&gt; + Offline Use &lt;br /&gt;&lt;br /&gt;+ Personalised in the form of custom voice sounds &lt;br /&gt;&lt;br /&gt; + Human Composed and Algorithmic music  &lt;br /&gt;&lt;br /&gt; - Have to pay to have a female voice over &lt;br /&gt;&lt;br /&gt; - Certain audio tracks are hidden behind a subscription &lt;br /&gt;&lt;br /&gt; - Auto charged after free trial&lt;/td&gt;
+      &lt;td&gt;From this application I would definitely include offline usage as well as making sure that there is a variety of sounds for different users. Furthermore personalization seems really important to meeting user needs.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.sleepio.com/&quot;&gt;Sleepio&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Sleepio is a digital sleep-improvement program developed by Professor Colin Espie who is a professor of sleep medicine. It uses various CBT techniques and guides the user through various weekly sessions. The app mainly focuses on the more medical solutions to sleep aid in which you build goals rather than listen to music.&lt;/td&gt;
+      &lt;td&gt;+ Goal setting &lt;br /&gt;&lt;br /&gt; + Personalised through questionnaires &lt;br /&gt;&lt;br /&gt; + Using External Devices to track fitness and other parameters &lt;br /&gt;&lt;br /&gt; + CBT lessons&lt;/td&gt;
+      &lt;td&gt;This application is only loosely connected to a music service which should be kept in mind, however having sleep statistics may be a good idea for fine tuning an experience.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.headspace.com/sleep-by-headspace&quot;&gt;Headspace for Sleep&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Headspace is an application that offers guided meditation sessions. It has a free model which covers basic meditations however it also comes with a subscription model which allows you to specify your guided meditations to a specific problem. Sleep by headspace is a specific meditation which helps the user wind down and sleep.&lt;/td&gt;
+      &lt;td&gt;+ Free (Subscription possible) &lt;br /&gt;&lt;br /&gt;+ Sliders allowing to change volume of audio to ambient music &lt;br /&gt;&lt;br /&gt; + A podcast with exercises to help wind down your sleep &lt;br /&gt;&lt;br /&gt; + Theme designed around not blinding with light&lt;/td&gt;
+      &lt;td&gt;Being aware of theming in order to be light on the eyes of users. A dark theme will be default.&lt;br /&gt;&lt;br /&gt; Having a slider to decide amount of ambient noise to spoken audio is a needed feature.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://sleepgenius.com/&quot;&gt;Sleep Genius&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Sleep Genius is a scientifically-oriented sleep-aid and wellbeing application which claims to use scientifically backed neurosensory algorithms to help put you to bed. This application claims to use multiple features including pink-noise and binaural sound technology.&lt;/td&gt;
+      &lt;td&gt;+ Built in alarm &lt;br /&gt;&lt;br /&gt; + Relaxation during the day and nap support &lt;br /&gt;&lt;br /&gt;  + Tips&lt;/td&gt;
+      &lt;td&gt;Binaural sounds should be considered as another way to create dreamscapes in my application.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;who-is-our-demographic&quot;&gt;Who is our demographic&lt;/h1&gt;
+&lt;p&gt;The demographic for my product is very broad as the application can be used for more than just sleep aid. However, I will focus on sleep aid being the main purpose which makes the audience for my application younger people who are restless and need external stimuli to unwind and provide escapism.&lt;/p&gt;
+</content>
+<author>
+<name>Kacper Daniel</name>
+</author>
+<summary>Market ResearchTo understand how to get to a successful end product we need to be observant of the current trends in the market. Market research is about observing the people who will understand your product and meet the users needs.</summary>
+</entry>
+<entry>
+<title>Music service idea</title>
+<link href="http://localhost:4000/The-music-service.html" rel="alternate" type="text/html" title="Music service idea" />
+<published>2019-03-05T00:00:00+00:00</published>
+<updated>2019-03-05T00:00:00+00:00</updated>
+<id>http://localhost:4000/The-music-service</id>
+<content type="html" xml:base="http://localhost:4000/The-music-service.html">&lt;h1 id=&quot;my-product-idea&quot;&gt;My product idea&lt;/h1&gt;
+&lt;p&gt;The musical service I have decided to create will be a therapeutic application used for the purpose of relaxation, sleep aid and studying. The application will produce natural sounds of the world which includes rain, wind, fire crackling and other natural sounds,&lt;/p&gt;
+
+&lt;h2 id=&quot;unique-features&quot;&gt;Unique Features&lt;/h2&gt;
+&lt;p&gt;The unique selling point of my product is the ability to choose a specific real life location and get pre-recorded and real time sounds from the location. Users can submit their own field recordings and share them amongst each other building a community and producing an endless stream of pleasurable and relaxing sounds. Furthermore, users will also have the ability to listen to sounds from the past and from the future to help immerse themselves into a specific calming environment.&lt;/p&gt;
+</content>
+<author>
+<name>Kacper Daniel</name>
+</author>
+<summary>My product ideaThe musical service I have decided to create will be a therapeutic application used for the purpose of relaxation, sleep aid and studying. The application will produce natural sounds of the world which includes rain, wind, fire crackling and other natural sounds,</summary>
+</entry>
+<entry>
+<title>Introduction</title>
+<link href="http://localhost:4000/Introduction.html" rel="alternate" type="text/html" title="Introduction" />
+<published>2019-03-05T00:00:00+00:00</published>
+<updated>2019-03-05T00:00:00+00:00</updated>
+<id>http://localhost:4000/Introduction</id>
+<content type="html" xml:base="http://localhost:4000/Introduction.html">&lt;h1 id=&quot;what-is-the-purpose-of-this-blog&quot;&gt;What is the purpose of this blog?&lt;/h1&gt;
 &lt;p&gt;The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.&lt;/p&gt;
 
+&lt;h1 id=&quot;what-is-the-iterative-design-cycle&quot;&gt;What is the iterative design cycle?:&lt;/h1&gt;
+&lt;p&gt;The iterative design cycle is a combination of phases used when producing product ideas and designing the experiences for the product. The iterative design cycle generally follows the cycle of Observing, Ideating, Prototyping and Testing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://web.mit.edu/6.813/www/sp17/classes/06-user-centered-design/figures/04.png&quot; alt=&quot;Iterative Cycle&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;add-sentences-here&quot;&gt;add sentences here&lt;/h1&gt;
+
 &lt;h2 id=&quot;what-should-i-expect-from-the-blog&quot;&gt;What should I expect from the blog?&lt;/h2&gt;
-&lt;p&gt;The blog posts will document the &lt;a href=&quot;/The-music-service.html&quot;&gt;music service&lt;/a&gt; idea I have thought of and how its unique features meet the needs of my user group. I will follow the structure of:&lt;/p&gt;
+&lt;p&gt;The blog posts will document the &lt;a href=&quot;{{http:/schooluxblog.brig.space:4000}}{% post_url 2019-03-05-The-music-service %}&quot;&gt;music service&lt;/a&gt; idea I have thought of and how its unique features meet the needs of my user group. I will follow the structure of:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Market Research&lt;/strong&gt;
@@ -45,10 +265,12 @@
       &lt;li&gt;Reviewing the application with potential users and evaluating the improvments to make during the next iteration of the cycle.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Kacper Daniel</name></author><summary type="html">What is the purpose of this blog? The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/introduction.png" /></entry><entry><title type="html">Music service idea</title><link href="http://localhost:4000/The-music-service.html" rel="alternate" type="text/html" title="Music service idea" /><published>2019-03-05T00:00:00+00:00</published><updated>2019-03-05T00:00:00+00:00</updated><id>http://localhost:4000/The-music-service</id><content type="html" xml:base="http://localhost:4000/The-music-service.html">&lt;h1 id=&quot;my-product-idea&quot;&gt;My product idea&lt;/h1&gt;
-&lt;p&gt;The musical service I have decided to create will be a theraputic application used for the purpose of relaxation, sleep aid and studying. The application will produce natural sounds of the world which includes rain, wind, fire crackling and other natural sounds,&lt;/p&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;unique-features&quot;&gt;Unique Features&lt;/h2&gt;
-&lt;p&gt;The unique selling point of my product is the ability to choose a specific real life location and get pre-recorded and real time sounds from the location. Users can submit their own field recordings and share them amongst eachother building a community and producing an endless stream of pleasurable and relaxing sounds. Furthermore, users will also have the ability to listen to sounds from the past and from the future to help immerse themselves into a specific calming enviroment.&lt;/p&gt;</content><author><name>Kacper Daniel</name></author><summary type="html">My product idea The musical service I have decided to create will be a theraputic application used for the purpose of relaxation, sleep aid and studying. The application will produce natural sounds of the world which includes rain, wind, fire crackling and other natural sounds,</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/idea.jpg" /></entry><entry><title type="html">Market Research</title><link href="http://localhost:4000/research/market-research.html" rel="alternate" type="text/html" title="Market Research" /><published>2019-03-05T00:00:00+00:00</published><updated>2019-03-05T00:00:00+00:00</updated><id>http://localhost:4000/research/market-research</id><content type="html" xml:base="http://localhost:4000/research/market-research.html">&lt;h2 id=&quot;what-service-are-we-proposing&quot;&gt;What service are we proposing&lt;/h2&gt;
-
-&lt;h2 id=&quot;who-is-our-demographic&quot;&gt;Who is our demographic&lt;/h2&gt;</content><author><name>Kacper Daniel</name></author><summary type="html">What service are we proposing</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marketresearch.png" /></entry></feed>
+</content>
+<author>
+<name>Kacper Daniel</name>
+</author>
+<summary>What is the purpose of this blog?The purpose of this blog is to document the development of a digital music service starting from the base of the iterative design process all the way to the final high-fidelity product.</summary>
+</entry>
+</feed>
