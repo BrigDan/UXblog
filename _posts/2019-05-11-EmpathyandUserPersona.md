@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "Empathy Maps and User Personas"
@@ -28,4 +26,4 @@ People are very malleable and their experiences have major effects on their chan
 ## User Personas
 User personas are a way to indentify the user based off the resaerch we have obtained. In this case my user research was created based off some of my answers as I wanted my product to accurately reflect the user base.
 
-![user_research](/assets/img/myuserresearch.jpg)
+![user_research](/assets/img/myuserresearch.png)
