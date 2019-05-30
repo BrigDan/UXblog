@@ -26,7 +26,7 @@ The blog posts will document the [music service]({{http:/schooluxblog.brig.space
     * Creating a persona based on my research and analyzing how they will interact with my product.
 * **Empathy Map**
     * Analyzing the specific emotions the persona will encounter during usage of the product and the thoughts and feelings they have that would lead them to using the product.
-* **Product Storyboard**
+* **User Persona**
     * Looking at how the user will go about their day and analyzing where the application may be used during their average day.
 * **Wireframes**
     * Prototypes of my product in both physical paper form and digital form. I will be using mockups for the digital wireframe.
